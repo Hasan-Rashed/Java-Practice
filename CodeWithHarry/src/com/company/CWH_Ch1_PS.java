@@ -25,6 +25,6 @@ public class CWH_Ch1_PS
 
         //   Question4
         System.out.print("Enter Number: ");
-        System.out.println(sc.hasNext());
+        System.out.println(sc.hasNextInt());
     }
 }

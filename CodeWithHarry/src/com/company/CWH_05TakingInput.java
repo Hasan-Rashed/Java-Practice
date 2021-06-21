@@ -14,7 +14,7 @@ public class CWH_05TakingInput
 
         int sum = a + b;
         System.out.println("The sum of these numbers is: " + sum);
-         String str = sc.nextLine();
+        String str = sc.nextLine();
         System.out.println(str);
     }
 }
