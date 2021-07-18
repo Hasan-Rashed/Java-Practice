@@ -1,7 +1,6 @@
 package com.company;
 import java.util.Scanner;
 
-
 public class Calculator
 {
     static double operate(double num1, char ch, double num2)
